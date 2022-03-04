@@ -3,8 +3,8 @@
   font-weight: bold;
   line-height: 96px;
   margin: 0;
-  width:730px;
+  max-width:730px;
   align-self: center;
   margin-left: 64px;
   z-index: 1;
-} 
+}

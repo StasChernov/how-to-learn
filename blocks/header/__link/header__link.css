@@ -1,13 +1,13 @@
 .header__link{
   color: #2f80ed;
   text-decoration:none;
-}
-
-.header__link:hover{
   -webkit-transition: opacity .5s ease-in-out;
   -moz-transition: opacity .5s ease-in-out;
   -ms-transition: opacity .5s ease-in-out;
   -o-transition: opacity .5s ease-in-out;
   transition: opacity .5s ease-in-out;
+}
+
+.header__link:hover{
   opacity: 0.5;
 }

@@ -6,14 +6,15 @@
   color:#2f80ed;
   position:absolute;
   right:48px;
-  bottom:50%;
-}
-
-.feynman__link:hover{
+  top:50%;
   -webkit-transition: opacity .5s ease-in-out;
   -moz-transition: opacity .5s ease-in-out;
   -ms-transition: opacity .5s ease-in-out;
   -o-transition: opacity .5s ease-in-out;
   transition: opacity .5s ease-in-out;
+
+}
+
+.feynman__link:hover{
   opacity: 0.5;
-} 
+}

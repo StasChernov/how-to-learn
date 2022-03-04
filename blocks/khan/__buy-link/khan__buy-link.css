@@ -1,4 +1,4 @@
-.khan__bye-link{
+.khan__buy-link{
   margin: 0;
   padding: 0;
   color: #2f80ed;
@@ -6,13 +6,13 @@
   font-size: 30px;
   line-height: 42px;
   font-weight: normal;
-}
-
-.khan__bye-link:hover{
   -webkit-transition: opacity .5s ease-in-out;
   -moz-transition: opacity .5s ease-in-out;
   -ms-transition: opacity .5s ease-in-out;
   -o-transition: opacity .5s ease-in-out;
   transition: opacity .5s ease-in-out;
+}
+
+.khan__buy-link:hover{
   opacity: 0.5;
 }
