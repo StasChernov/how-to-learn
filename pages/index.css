@@ -1,4 +1,5 @@
 @import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/resources.css);
@@ -60,5 +61,4 @@
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
-@import url(../blocks/page/page.css);
 @import url(../blocks/rotation/rotation.css);
